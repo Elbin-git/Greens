@@ -41,6 +41,7 @@ public class Exectution1 {
 	private void methBMethod() {
 		System.out.println("E1 Before Method"+System.currentTimeMillis());
 	}
+	asasasas
 	@AfterMethod
 	private void methAMethod() {
 		System.out.println("E1 After Method"+System.currentTimeMillis());
